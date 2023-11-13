@@ -31,7 +31,7 @@ const FormDemo = () => (
     </Form.Field>
     <Form.Submit asChild>
       <button className="Button" style={{ marginTop: 10 }}>
-        Ask me your question
+        Ask your question
       </button>
     </Form.Submit>
   </Form.Root>
