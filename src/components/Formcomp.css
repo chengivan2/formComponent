@@ -13,9 +13,9 @@ button {
 .FormRoot {
   width: 35vw;
   padding: 5%;
-  background: rgba(87, 87, 87, 0.05);
+  background: rgba(143, 142, 142, 0.05);
   box-shadow: 0 0 0 2px rgba(247, 247, 248, 0.37);
-  backdrop-filter: blur(30px);
+  backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
   border-radius: 8px;
 }
